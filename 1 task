@@ -1,0 +1,15 @@
+<!Doctype html>
+<html>
+<head>
+    <title>something important</title>
+</head>
+<body>
+    <h1> this is the something important</h1>
+    <h2> login page</h2>
+    <p> provide password and name</p>
+    <p> name<input type="write" id="name" place holder="enter name" required></p>
+    <p> password<input type="write" id="password" place holder="enter password" required></p>
+    <button> sign in </button>
+    <p> get started</p>
+</body> 
+</html> 
